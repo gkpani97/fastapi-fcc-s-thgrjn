@@ -1,1 +1,0 @@
-# fastapi-fcc-s-thgrjn
